@@ -20,14 +20,14 @@
 ### 🤖 Habilidade nas Tecnologias: 
 <div style="display: inline_block"><br>
  
-<img align="center" alt="AndreH-JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="AndreH-HTML" height="35"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="AndreH-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="AndreH-Express" heigh="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="center" alt="AndreH-NODEJS" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="AndreH-REACT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="AndreH-ELECTRON.JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-<img align="center" alt="AndreH-MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
+<img align="center" alt="Gustrevasx-JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Gustrevasx-HTML" height="35"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Gustrevasx-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Gustrevasx-Express" heigh="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="center" alt="Gustrevasx-NODEJS" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Gustrevasx-REACT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Gustrevasx-ELECTRON.JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img align="center" alt="Gustrevasx-MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
 
 ### 📱 Contato: 
 
@@ -45,9 +45,9 @@
 ### 🧑‍💻 Desenvolvimento:
 
 <div>
- <a href="https://github.com/AndreH-carioca">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreH-carioca&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreH-carioca&layout=compact&langs_count=16&theme=omni"/>
+ <a href="https://github.com/Gustrevasx">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustrevasx&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustrevasx&layout=compact&langs_count=16&theme=omni"/>
   </div>
  
  
